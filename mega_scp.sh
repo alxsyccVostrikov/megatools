@@ -48,3 +48,4 @@ cd glib-2.32.4/
 make  
 make install  
 ;;
+esac
